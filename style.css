@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* div{
+
+}
+
+.pilihKelas{
+
+}
+
+#pilihId{
+
+} */
+
+/* h1{
+    color: red;
+}
+
+.warnaBiru{
+    color: blue !important;
+}
+
+#warnaHijau{
+    color: green;
+} */
+
+/* Pembobotan Dalam CSS */
+
+/* TAG Bernilai 10
+Class Bernilai 100
+ID Bernilai 1000
+Value Important! Bernilai Lebih Besar Daripada Ketiganya */
+
+.kotakMerah{
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    color: white;
+    padding: 30px;
+    border: solid 2px grey;
+    border-radius: 10px;
+}
